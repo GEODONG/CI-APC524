@@ -1,3 +1,9 @@
 import dataclasses
 
-@dataclasses.
+@dataclasses.dataclass
+
+class Vector:
+    x:float
+    y:float
+
+
